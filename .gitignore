@@ -18,4 +18,5 @@ supabase/.temp/
 
 # Operating system files
 .DS_Store
-Thumbs.dbcat2app/config.php
+Thumbs.db
+cat2app/config.php
